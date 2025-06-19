@@ -1,0 +1,22 @@
+2025-05-31 13:24:53,332 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50001
+ * Running on http://192.168.1.29:50001 [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:24:53,333 INFO: [33mPress CTRL+C to quit[0m [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:24:53,334 INFO:  * Restarting with stat [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:24:53,747 WARNING:  * Debugger is active! [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:24:53,750 INFO:  * Debugger PIN: 756-235-063 [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:25:22,895 INFO: Home page accessed [in C:\Users\cleme\code\flask\app.py:15]
+2025-05-31 13:25:22,895 INFO: 127.0.0.1 - - [31/May/2025 13:25:22] "GET / HTTP/1.1" 200 - [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:26:22,996 INFO: Home page accessed [in C:\Users\cleme\code\flask\app.py:15]
+2025-05-31 13:26:22,996 INFO: 127.0.0.1 - - [31/May/2025 13:26:22] "GET / HTTP/1.1" 200 - [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-05-31 13:26:30,183 INFO: ALERT!!! Admin page accessed [in C:\Users\cleme\code\flask\app.py:20]
+2025-05-31 13:26:30,183 INFO: 127.0.0.1 - - [31/May/2025 13:26:30] "GET /admin HTTP/1.1" 200 - [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-08 15:21:03,369 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50001
+ * Running on http://192.168.1.9:50001 [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-08 15:21:03,370 INFO: [33mPress CTRL+C to quit[0m [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-08 15:22:06,541 INFO: Home page accessed [in c:\Users\cleme\code\flask\app.py:15]
+2025-06-08 15:22:06,544 INFO: 127.0.0.1 - - [08/Jun/2025 15:22:06] "GET / HTTP/1.1" 200 - [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
+2025-06-08 15:22:06,597 INFO: 127.0.0.1 - - [08/Jun/2025 15:22:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [in C:\Users\cleme\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\_internal.py:97]
