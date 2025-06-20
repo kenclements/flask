@@ -13,7 +13,7 @@ logging.basicConfig(
 @app.route('/')
 def home():
     app.logger.info('Home page accessed')
-    return 'Hello, Flask with logging!'
+    return 'Hello, Flask with logging! AGAIN!!!'
 
 @app.route('/admin')
 def admin():
